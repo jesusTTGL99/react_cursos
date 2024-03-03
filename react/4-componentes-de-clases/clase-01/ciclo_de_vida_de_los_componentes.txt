@@ -1,0 +1,6 @@
+Ciclo de vida de un componente:
+
+1. Se construye.
+2. Se renderiza.
+3. Se renderizo.
+4. Se destruye.

@@ -1,0 +1,14 @@
+UseState:
+	Nos permite usar el Estado de los  componentes funcionales.
+
+UseEffect:
+
+	Se ejecuta cuando el componente va a ser construido.
+	El segundo parametro es un array opcional.
+	El array sera el listado de todos los estados que quiero controlar como disparadores de la funcion que escribi en el useEffect.
+	Si no le paso array como segundo parametro. El useEffect vuelve a correr siempre que algun estado se actualice.
+	Puede retornar una funcion y en esa funcion va todo lo que quieras ejecutar cuando el componente se desmonte.
+	
+UseRef:
+
+	Nos permite crear una referencia hacia un elemento del DOM.

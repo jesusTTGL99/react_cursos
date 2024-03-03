@@ -1,0 +1,8 @@
+Definicion:
+	Es una libreria javascript para construir interfaces de usuarios.
+
+Caracteristicas:
+	1-Es una libreria.
+	2-Es declarativa.
+	3-Basado en componentes
+	4-Apredelo una vez, escribelo donde sea.

@@ -1,0 +1,13 @@
+1. create react app
+
+	npx create-react-app first-app
+	cd name
+	npm start
+
+2. vite
+
+	yarn create vite
+	cd second-app
+	yarn
+	yarn dev --host
+

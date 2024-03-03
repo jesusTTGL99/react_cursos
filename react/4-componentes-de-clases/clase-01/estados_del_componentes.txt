@@ -1,0 +1,7 @@
+Componentes Stateful:
+
+	Son componentes que tiene estado.
+
+Componentes Stateless:
+
+	Son componentes que no tiene estado.
